@@ -1,0 +1,15 @@
+[
+    {
+      "role": "Frontend Developer",
+      "organisation": "Personal Project",
+      "startDate": "Febraury, 2024",
+      "endDate": "Present",
+      "experiences": [
+        "Developed a responsive portfolio using React.js",
+        "Implemented design principles with HTML, CSS, and React.js",
+        "Optimized the portfolio for mobile and desktop viewing"
+      ],
+      "imageSrc": "history/portfolio.png"
+    }
+  ]
+  
