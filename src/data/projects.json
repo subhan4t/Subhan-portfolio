@@ -1,6 +1,7 @@
 [
     {
         "title": "Responsive Portfolio Website",
+        "idname": "website",
         "imageSrc": "projects/project1.png",
         "description": "A personal portfolio website designed and developed using React.js to showcase my skills and projects. The website is fully responsive and optimized for both desktop and mobile devices.",
     "skills": ["React", "HTML", "CSS"],
@@ -9,11 +10,11 @@
      },
      {
         "title": "Maruti 800 EV Conversion",
+        "idname": "evProject",
         "imageSrc": "projects/maruti800sideview.jpg",
         "description": "A project focused on converting a Maruti 800 into an electric vehicle. The project involved mechanical modifications, battery integration, and electrical system design to create a sustainable and eco-friendly vehicle.",
         "skills": ["Mechanical Engineering", "EV Technology", "Battery Management"],
-        "demo": "https://www.example.com",
-        "source": "https://www.github.com/your-maruti-ev-repo"
+        "source": "https://github.com/subhan4t/Conversion-of-EV-Vehicle/blob/main/README.md"
       }
 
 ]

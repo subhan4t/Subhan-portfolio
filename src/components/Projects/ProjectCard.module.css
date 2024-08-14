@@ -61,3 +61,7 @@
     background: var(--color-primary);
     padding: 1px 22px;
 }
+
+#evProject {
+    display: none;
+}
