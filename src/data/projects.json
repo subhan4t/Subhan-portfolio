@@ -15,6 +15,16 @@
         "description": "A project focused on converting a Maruti 800 into an electric vehicle. The project involved mechanical modifications, battery integration, and electrical system design to create a sustainable and eco-friendly vehicle.",
         "skills": ["Mechanical Engineering", "EV Technology", "Battery Management"],
         "source": "https://github.com/subhan4t/Conversion-of-EV-Vehicle/blob/main/README.md"
+      },
+      {
+        "title": "Weather Forecasting Web App",
+        "idname": "weatherApp",
+        "imageSrc": "projects/weatherForecasting.png",
+        "description": "A weather forecasting web app developed using React.js, providing real-time weather data. The app is fully responsive and optimized for both desktop and mobile devices, featuring city search and location-based weather updates.",
+        "skills": ["React.js", "JavaScript", "Tailwind CSS", "API Integration", "Responsive Web Design", "Weather Data Fetching", "Frontend Development"],
+        "demo": "https://subhan4t.github.io/Weather-Forecasting-App/",
+        "source": "https://github.com/subhan4t/Weather-Forecasting-App"
+
       }
 
 ]

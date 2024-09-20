@@ -9,5 +9,15 @@ export default defineConfig({
     modules: {
       localsConvention: 'camelCase',
     }
+  },
+  server: {
+    fs: {
+      allow: [
+        // Add your project root directory here
+        'C:/Users/Subhan/OneDrive/Documents/react-project/react-portfolio',
+        // Add any other paths you need to allow
+      ]
+    }
   }
 })
+
