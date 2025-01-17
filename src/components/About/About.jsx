@@ -12,14 +12,21 @@ export const About = () => {
                 <img src={getImageUrl("about/uiIcon.png")} alt="UI Icon" />
                 <div className={styles.aboutItemText}>
                     <h3>Responsive Layouts</h3>
-                    <p>Implemented responsive designs using CSS Flexbox, Grid, and Bootstrap to create web layouts that adapt seamlessly to different screen sizes and devices.</p>
+                    <p>Designed responsive web layouts using CSS Flexbox, Grid, and Bootstrap to ensure seamless adaptation across various screen sizes and devices in MERN applications.</p>
                 </div>
             </li>
             <li className={styles.aboutItem}>
                 <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor Icon" />
                 <div className={styles.aboutItemText}>
                     <h3>Interactive Features</h3>
-                    <p>Enhanced user experience with interactive features, including dynamic forms and animations, using JavaScript, ReactJS, and Bootstrap to build engaging and intuitive interfaces.</p>
+                    <p>Enhanced user experience by creating dynamic forms and interactive features with ReactJS on the frontend, while utilizing Node.js and Express.js on the backend to build intuitive and responsive MERN applications.</p>
+                </div>
+            </li>
+            <li className={styles.aboutItem}>
+                <img src={getImageUrl("about/database.png")} alt="DBMS Icon" />
+                <div className={styles.aboutItemText}>
+                    <h3>Database Management</h3>
+                    <p>Integrated MongoDB for efficient data storage and retrieval, ensuring seamless communication between the frontend and backend, while maintaining data consistency and scalability across the application.</p>
                 </div>
             </li>
         </ul>

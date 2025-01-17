@@ -1,10 +1,19 @@
 [
   {
+    "title": "Devix: A Developer-Centric Web Application",
+    "idname": "devix",
+    "imageSrc": "projects/devix.png",
+    "description": "A MERN stack web app for developers to post tech blogs and updates. Features a responsive UI and secure backend with RESTful APIs and authentication.",
+    "skills": ["MERN Stack", "React.js", "Node.js", "Express.js", "MongoDB", "API Integration"],
+    "demo": "https://devixbeta.netlify.app/",
+    "source": "https://github.com/subhan4t/Client.git"
+  },
+  {
     "title": "Weather Forecasting Web App",
     "idname": "weatherApp",
     "imageSrc": "projects/weatherForecasting.png",
     "description": "A weather forecasting web app developed using React.js, providing real-time weather data. The app is fully responsive and optimized for both desktop and mobile devices, featuring city search and location-based weather updates.",
-    "skills": ["React.js", "Tailwind CSS", "API Integration", "Weather Data Fetching"],
+    "skills": ["React.js", "Tailwind CSS", "API Integration"],
     "demo": "https://subhan4t.github.io/Weather-Forecasting-App/",
     "source": "https://github.com/subhan4t/Weather-Forecasting-App"
 

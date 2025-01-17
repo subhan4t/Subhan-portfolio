@@ -1,13 +1,36 @@
 [
-    {
+  {
+    "role": "Full-Stack Developer",
+    "organisation": "Devix",
+    "startDate": "January 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Developed a MERN stack app for developers to post tech blogs and updates.",
+      "Implemented RESTful APIs and user authentication, deployed on Netlify and Render."
+    ],
+    "imageSrc": "history/devix.png",
+    "projectDemo": "View Demo"
+  },
+  {
+    "role": "Frontend Developer",
+    "organisation": "Weather Forecasting Application",
+    "startDate": "September 2024",
+    "endDate": "",
+    "experiences": [
+      "Developed a weather app using React and Vite with API integration.",
+      "Managed state for efficient data updates and user interactions."
+    ],
+    "imageSrc": "history/weather.png",
+    "projectDemo": "View Demo"
+  },  
+  {
       "role": "Frontend Developer",
       "organisation": "Personal Project",
-      "startDate": "Febraury, 2024",
-      "endDate": "Present",
+      "startDate": "August 2024",
+      "endDate": "",
       "experiences": [
         "Developed a responsive portfolio using React.js",
-        "Implemented design principles with HTML, CSS, and React.js",
-        "Optimized the portfolio for mobile and desktop viewing"
+        "Implemented design principles with HTML, CSS, and React.js"
       ],
       "imageSrc": "history/portfolio.png"
     }

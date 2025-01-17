@@ -12,12 +12,32 @@
       "imageSrc": "skills/bootstrap.png"
     },
     {
+      "title": "Tailwind Css",
+      "imageSrc": "skills/tailwind.png"
+    },
+    {
+      "title": "Javascript",
+      "imageSrc": "skills/js.png"
+    },
+    {
       "title": "React",
       "imageSrc": "skills/react.png"
     },
     {
+      "title": "Node.js",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
       "title": "Python",
       "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
     },
     {
       "title": "Github",
