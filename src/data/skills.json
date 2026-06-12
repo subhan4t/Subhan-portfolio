@@ -1,23 +1,23 @@
 [
     {
-      "title": "HTML",
-      "imageSrc": "skills/html.png"
+      "title": "AutoCAD Plant3D",
+      "imageSrc": "skills/autocad-seeklogo.png"
     },
     {
-      "title": "CSS",
-      "imageSrc": "skills/css.png"
+      "title": "Aveva E3D",
+      "imageSrc": "skills/aveva-seeklogo.png"
     },
     {
-      "title": "Bootstrap",
-      "imageSrc": "skills/bootstrap.png"
+      "title": "Naviswork Manager",
+      "imageSrc": "skills/navisworks-seeklogo.png"
     },
     {
-      "title": "Tailwind Css",
-      "imageSrc": "skills/tailwind.png"
+      "title": "MS Word",
+      "imageSrc": "skills/word.png"
     },
     {
-      "title": "Javascript",
-      "imageSrc": "skills/js.png"
+      "title": "MS Excel",
+      "imageSrc": "skills/logo.png"
     },
     {
       "title": "React",
@@ -28,19 +28,7 @@
       "imageSrc": "skills/node.png"
     },
     {
-      "title": "MongoDB",
-      "imageSrc": "skills/mongodb.png"
-    },
-    {
       "title": "Python",
       "imageSrc": "skills/python.png"
-    },
-    {
-      "title": "Java",
-      "imageSrc": "skills/java.png"
-    },
-    {
-      "title": "Github",
-      "imageSrc": "skills/github1.png"
     }
   ]

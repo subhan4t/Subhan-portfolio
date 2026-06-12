@@ -9,24 +9,25 @@ export const About = () => {
         <img src={getImageUrl("about/aboutImage1.png")} alt="About Image" className={styles.aboutImage}/>
         <ul className={styles.aboutItems}>
             <li className={styles.aboutItem}>
-                <img src={getImageUrl("about/uiIcon.png")} alt="UI Icon" />
+                <img src={getImageUrl("about/valve.png")} alt="UI Icon" style={{ width: '75px', height: 'auto' }} />
                 <div className={styles.aboutItemText}>
-                    <h3>Responsive Layouts</h3>
-                    <p>Designed responsive web layouts using CSS Flexbox, Grid, and Bootstrap to ensure seamless adaptation across various screen sizes and devices in MERN applications.</p>
+                    <h3>Piping Designer</h3>
+                    <p>Experienced in creating accurate 3D piping layouts, equipment modeling, and generating isometric drawings AutoCAD Plant3D, ensuring compliance with project specifications and engineering standards.</p>
                 </div>
             </li>
             <li className={styles.aboutItem}>
-                <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor Icon" />
+                <img src={getImageUrl("about/user-setting.png")} alt="Cursor Icon" style={{ width: '75px', height: 'auto'
+                }} />
                 <div className={styles.aboutItemText}>
-                    <h3>Interactive Features</h3>
-                    <p>Enhanced user experience by creating dynamic forms and interactive features with ReactJS on the frontend, while utilizing Node.js and Express.js on the backend to build intuitive and responsive MERN applications.</p>
+                    <h3>Piping Admin</h3>
+                    <p>Managed Spec Editor configurations, handled spec changes, and created custom valves, instruments, and non-native components within AutoCAD Plant 3D. Generated precise isometric drawings and utilized XML backdoor modifications to bypass standard UI Project Manager limitations, forcing the system to output specialized isometric drawings and custom symbols.</p>
                 </div>
             </li>
             <li className={styles.aboutItem}>
-                <img src={getImageUrl("about/database.png")} alt="DBMS Icon" />
+                <img src={getImageUrl("about/programming.png")} alt="DBMS Icon" style={ { width: "75px", height: "auto"}}/>
                 <div className={styles.aboutItemText}>
-                    <h3>Database Management</h3>
-                    <p>Integrated MongoDB for efficient data storage and retrieval, ensuring seamless communication between the frontend and backend, while maintaining data consistency and scalability across the application.</p>
+                    <h3>Mern Stack and Automation</h3>
+                    <p>Developed full-stack web applications using the MERN stack while leveraging Python and PyAutoCAD to automate repetitive CAD design tasks, streamlining engineering workflows and improving drafting efficiency.</p>
                 </div>
             </li>
         </ul>

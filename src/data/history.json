@@ -1,38 +1,17 @@
 [
   {
-    "role": "Full-Stack Developer",
-    "organisation": "Devix",
-    "startDate": "January 2025",
+    "role": "Engineer",
+    "organisation": "Harmony Environmental Systems Private Limited",
+    "startDate": "May 2025",
     "endDate": "Present",
     "experiences": [
-      "Developed a MERN stack app for developers to post tech blogs and updates.",
-      "Implemented RESTful APIs and user authentication, deployed on Netlify and Render."
+      "Designed accurate 3D piping layouts, equipment models, and extraction of precise isometric drawings adhering to international engineering standards.",
+    "Managed AutoCAD Plant 3D Spec Editor, executing spec changes and creating custom, non-native valves, instruments, and specialized components.",
+    "Utilized XML backdoor modifications to bypass standard UI constraints, forcing customized isometric outputs and custom symbols.",
+    "Developed full-stack tools using the MERN stack and utilized PyAutoCAD scripts to automate repetitive CAD design tasks, optimizing workflow efficiency."
     ],
-    "imageSrc": "history/devix.png",
+    "imageSrc": "history/hook.png",
     "projectDemo": "View Demo"
-  },
-  {
-    "role": "Frontend Developer",
-    "organisation": "Weather Forecasting Application",
-    "startDate": "September 2024",
-    "endDate": "",
-    "experiences": [
-      "Developed a weather app using React and Vite with API integration.",
-      "Managed state for efficient data updates and user interactions."
-    ],
-    "imageSrc": "history/weather.png",
-    "projectDemo": "View Demo"
-  },  
-  {
-      "role": "Frontend Developer",
-      "organisation": "Personal Project",
-      "startDate": "August 2024",
-      "endDate": "",
-      "experiences": [
-        "Developed a responsive portfolio using React.js",
-        "Implemented design principles with HTML, CSS, and React.js"
-      ],
-      "imageSrc": "history/portfolio.png"
-    }
+  }
   ]
   

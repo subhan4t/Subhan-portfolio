@@ -14,7 +14,7 @@ export default defineConfig({
     fs: {
       allow: [
         // Add your project root directory here
-        'C:/Users/Subhan/OneDrive/Documents/react-project/react-portfolio',
+        process.cwd()
         // Add any other paths you need to allow
       ]
     }
